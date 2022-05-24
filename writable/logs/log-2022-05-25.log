@@ -1,0 +1,30 @@
+CRITICAL - 2022-05-25 00:35:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-25 00:35:37 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-25 00:35:37 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-25 00:36:04 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-25 00:36:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}

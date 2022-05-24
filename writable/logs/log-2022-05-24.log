@@ -1,0 +1,13 @@
+ERROR - 2022-05-24 17:36:13 --> Error connecting to the database: Unknown database 'users'
+CRITICAL - 2022-05-24 17:36:13 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'users'
+#0 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\Database\BaseBuilder.php(1539): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#2 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\Model.php(509): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#3 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\BaseModel.php(1084): CodeIgniter\Model->countAllResults(false)
+#4 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\app\Controllers\User.php(20): CodeIgniter\BaseModel->paginate(10)
+#5 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(832): App\Controllers\User->index()
+#6 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CodeTest\crud-rapido-em-20-minutos-main\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
