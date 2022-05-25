@@ -1,3 +1,9 @@
+# CRUD funcionando em CodeIgniter4
+
+Requer php intl habilitado, assim como base de dados localhost com usuário root sem senha.
+Backup da base de dados em 127_0_0_1.sql
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
